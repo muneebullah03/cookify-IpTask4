@@ -1,17 +1,39 @@
-# cookify
+# 🍲 Flutter Recipes App
 
-A new Flutter project.
+A simple and clean Flutter app to explore recipes using the [DummyJSON Recipes API](https://dummyjson.com/recipes).  
+The app allows you to view recipes, check detailed ingredients & steps, and search recipes locally with ease.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+// you can watch a video of this project 
+// click on the link 
 
-A few resources to get you started if this is your first Flutter project:
+https://drive.google.com/file/d/163duI7CtQpTMBdQgJRZlZMwCiFTSUkrg/view?usp=drive_link
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cookify-IpTask4
+## ✨ Features
+- 📜 Fetch recipes from DummyJSON API
+- 🔍 Local search functionality (filter without re-fetching)
+- 📝 Detailed recipe view (ingredients + instructions)
+- 🖼️ Recipe images with titles, cooking time & rating
+- ⚡ Built with Flutter (cross-platform support)
+
+---
+
+## 📸 Screenshots
+(Add screenshots here after running the app)
+
+---
+
+## 🛠️ Tech Stack
+- [Flutter](https://flutter.dev/) (UI framework)
+- [DummyJSON API](https://dummyjson.com/docs/recipes) (recipes data)
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/flutter-recipes-app.git
+cd flutter-recipes-app
